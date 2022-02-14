@@ -9,4 +9,4 @@ Un método contiene demasiadas líneas de código. En general, cualquier método
 Una clase contiene muchos campos/métodos/líneas de código.
 ### Obsesión primitiva: 
 Uso de primitivas en lugar de objetos pequeños para tareas simples (como moneda, rangos, cadenas especiales para números de teléfono, etc.)
-Lista larga de parámetros: Más de tres o cuatro parámetros para un método.
+Lista larga de parámetros: Más de tres o cuatro parámetros para un método. 
