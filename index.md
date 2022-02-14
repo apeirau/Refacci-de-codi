@@ -1,36 +1,12 @@
 ## Refracció de codi Àlex Peirau
 
-You can use the [editor on GitHub](https://github.com/apeirau/Refacci-de-codi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Bloaters: 
+Representan algo que ha crecido en proporciones tan grandes que resulta complejo tanto de entender como de manejar. Generalmente, se acumulan con el tiempo y no pueden ser detectados hasta que el programa evolucione.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-### Jekyll Themes
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-### Support or Contact
-
+###Método largo: 
+Un método contiene demasiadas líneas de código. En general, cualquier método de más de diez líneas debería hacer que comiences a hacer preguntas. (Forzado)
+###Clase grande: 
+Una clase contiene muchos campos/métodos/líneas de código.
+###Obsesión primitiva: 
+Uso de primitivas en lugar de objetos pequeños para tareas simples (como moneda, rangos, cadenas especiales para números de teléfono, etc.)
+Lista larga de parámetros: Más de tres o cuatro parámetros para un método.
