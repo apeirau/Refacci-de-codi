@@ -225,6 +225,8 @@ Si un comentario explica una sección de código, esta sección se puede convert
 
 # Couplers:
 ![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/couplers.png)
+
+
 Todos los “code smells” de este grupo contribuyen al acoplamiento excesivo entre clases o muestran lo que sucede si el acoplamiento se reemplaza por una delegación excesiva.
 
 
