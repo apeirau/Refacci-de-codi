@@ -2,6 +2,7 @@
 
 # Bloaters: 
 ![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/bloaters.png)
+
 Representan algo que ha crecido en proporciones tan grandes que resulta complejo tanto de entender como de manejar. Generalmente, se acumulan con el tiempo y no pueden ser detectados hasta que el programa evolucione.
 
 ### Método largo: 
