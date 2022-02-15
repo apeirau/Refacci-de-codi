@@ -51,8 +51,10 @@ Si se siente la necesidad de comentar el método, es muy posible que se deba tom
 ### Lista larga de parámetros
 
 # Object-Orientation Abusers:
+![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/oo-abusers.png)
 
 Son aplicaciones incompletas o incorrectas de los principios de programación orientada a objetos.
+
 ### Cambiar declaraciones:
 Tiene un operador de cambio complejo o una secuencia de instrucciones if.
 ###### Código con "code smell":
@@ -109,6 +111,10 @@ Si no hay demasiadas condiciones en el operador y todos llaman al mismo método 
 ### Clases alternativas con diferentes interfaces
 
 # Change Preventers:
+![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/change-preventers.png)
+
+Si necesita cambiar algo en un lugar de su código, también debe realizar muchos cambios en otros lugares. Como resultado, el desarrollo del programa se vuelve mucho más complicado y costoso.
+
 ### Cambio divergente
 ### Cirugía de escopeta:
 Hacer cualquier modificación requiere que haga muchos pequeños cambios en muchas clases diferentes.
@@ -166,6 +172,11 @@ public class exampleChangePreventers {
 ### Jerarquías de herencia paralelas
 
 # Dispensables:
+
+![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/dispensables.png)
+
+Un prescindible es algo sin sentido e innecesario cuya ausencia haría que el código fuera más limpio, más eficiente y más fácil de entender. 
+
 ### Comentarios:
 Un método está lleno de comentarios explicativos. (Aunque está bien comentar que es lo que hacen algunas cosas, a veces superamos esa línea comentando código fácilmente entendible que lo único que hace es aumentar líneas de código y molestar)
 ######  Código con "code smell": 
@@ -211,6 +222,9 @@ Si un comentario explica una sección de código, esta sección se puede convert
 ### Generalidad especulativa
 
 # Couplers:
+![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/couplers.png)
+Todos los “code smells” de este grupo contribuyen al acoplamiento excesivo entre clases o muestran lo que sucede si el acoplamiento se reemplaza por una delegación excesiva.
+
 
 ### Característica Envidia
 ### Intimidad inapropiada
