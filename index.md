@@ -1,6 +1,7 @@
 ## Refracció de codi Àlex Peirau
 
 # Bloaters: 
+![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/bloaters.png)
 Representan algo que ha crecido en proporciones tan grandes que resulta complejo tanto de entender como de manejar. Generalmente, se acumulan con el tiempo y no pueden ser detectados hasta que el programa evolucione.
 
 ### Método largo: 
@@ -9,4 +10,7 @@ Un método contiene demasiadas líneas de código. En general, cualquier método
 Una clase contiene muchos campos/métodos/líneas de código.
 ### Obsesión primitiva: 
 Uso de primitivas en lugar de objetos pequeños para tareas simples (como moneda, rangos, cadenas especiales para números de teléfono, etc.)
-Lista larga de parámetros: Más de tres o cuatro parámetros para un método. 
+### Lista larga de parámetros: 
+Más de tres o cuatro parámetros para un método. 
+
+
