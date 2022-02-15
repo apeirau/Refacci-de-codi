@@ -113,6 +113,7 @@ Si no hay demasiadas condiciones en el operador y todos llaman al mismo método 
 # Change Preventers:
 ![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/change-preventers.png)
 
+
 Si necesita cambiar algo en un lugar de su código, también debe realizar muchos cambios en otros lugares. Como resultado, el desarrollo del programa se vuelve mucho más complicado y costoso.
 
 ### Cambio divergente
@@ -174,6 +175,7 @@ public class exampleChangePreventers {
 # Dispensables:
 
 ![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/dispensables.png)
+
 
 Un prescindible es algo sin sentido e innecesario cuya ausencia haría que el código fuera más limpio, más eficiente y más fácil de entender. 
 
