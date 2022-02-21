@@ -2,7 +2,6 @@
 
 # Bloaters: 
 ![Image text](bloaters.png)
-hola
 
 Representan algo que ha crecido en proporciones tan grandes que resulta complejo tanto de entender como de manejar. Generalmente, se acumulan con el tiempo y no pueden ser detectados hasta que el programa evolucione.
 
@@ -52,7 +51,7 @@ Si se siente la necesidad de comentar el método, es muy posible que se deba tom
 ### Lista larga de parámetros
 
 # Object-Orientation Abusers:
-![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/oo-abusers.png)
+![Image text](oo-abusers.png)
 
 Son aplicaciones incompletas o incorrectas de los principios de programación orientada a objetos.
 
@@ -112,7 +111,7 @@ Si no hay demasiadas condiciones en el operador y todos llaman al mismo método 
 ### Clases alternativas con diferentes interfaces
 
 # Change Preventers:
-![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/change-preventers.png)
+![Image text](change-preventers.png)
 
 
 Si necesita cambiar algo en un lugar de su código, también debe realizar muchos cambios en otros lugares. Como resultado, el desarrollo del programa se vuelve mucho más complicado y costoso.
@@ -175,7 +174,7 @@ public class exampleChangePreventers {
 
 # Dispensables:
 
-![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/dispensables.png)
+![Image text](dispensables.png)
 
 
 Un prescindible es algo sin sentido e innecesario cuya ausencia haría que el código fuera más limpio, más eficiente y más fácil de entender. 
@@ -225,7 +224,7 @@ Si un comentario explica una sección de código, esta sección se puede convert
 ### Generalidad especulativa
 
 # Couplers:
-![Image text](https://github.com/apeirau/Refaccio-de-codi/blob/gh-pages/couplers.png)
+![Image text](couplers.png)
 
 
 Todos los “code smells” de este grupo contribuyen al acoplamiento excesivo entre clases o muestran lo que sucede si el acoplamiento se reemplaza por una delegación excesiva.
